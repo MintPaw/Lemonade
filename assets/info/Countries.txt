@@ -1,0 +1,27 @@
+Def: [name:String|level:Int|population:UInt|dpl:Float]
+Canada|2|35427524|1.67
+USA|3|318892103|2.42
+Central_America|1|632326738|.75
+Venezuela|2|27227930|1.23
+Peru|1|29043492|.82
+Brazil|3|202886000|2.13
+Argentina|2|42610981|1.59
+Morocco|1|31894000|.70
+Egypt|2|84314000|1.29
+West Africa|1|293463235|.62
+East Africa|2|240586935|1.1
+Congo|1|65584230|.80
+South Africa|3|51023086|2.1
+Madagascar|2|22295481|1.39
+Middle East|2|270623000|1.37
+Afghanistan|2|29182546|1.85
+India|2|1210193422|.47
+European Union|3|505796657|2.5
+East Europe|2|10180000|2.26
+Russia|2|143502097|1.23
+Mongolia|1|2796423|.97
+China|3|1351789534|1.86
+Japan|3|127642315|2.28
+South Asia|2|156587963|1.63
+Indonesia|1|246958631|1.05
+Australasia|2|31269845|2.56
